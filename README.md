@@ -1,2 +1,2 @@
 # PracticuGit
-Demo for git course
+## Demo for git course
